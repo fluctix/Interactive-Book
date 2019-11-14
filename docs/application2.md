@@ -4,7 +4,7 @@ title: Basic Applications
 comments: true
 nav_order: 4
 ---
-# Basic Applications
+# Basic Apllications
 {: .no_toc }
 
 
